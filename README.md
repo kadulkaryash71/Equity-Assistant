@@ -8,5 +8,5 @@ The project is still under development and open to suggestions from novice and e
 I hope this helps for developers in various ways. This project is built with an intention to lay groundwork for these kind of projects. Keep Coding!
   
 References:
-  https://www.youtube.com/watch?v=QIUxPv5PJOY
-  https://www.codewithharry.com/videos/python-tutorials-for-absolute-beginners-120
+https://www.youtube.com/watch?v=QIUxPv5PJOY
+https://www.codewithharry.com/videos/python-tutorials-for-absolute-beginners-120
